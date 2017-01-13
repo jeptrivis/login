@@ -1,3 +1,8 @@
+<?php 
+require "verifica-autorizzazione.php";
+ ?>
+}
+
 <!doctype html>
 <html>
     <head>
